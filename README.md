@@ -22,11 +22,11 @@ Character is rigged with Unreal Engine 5 Skeleton, and all the default animation
 
 ### Screenshots
 
-[![Pack1][Pack1]]
-[![Pack2][Pack2]]
-[![Pack3][Pack3]]
-[![Animations_Mixamo][Animations_Mixamo]]
-[![Animations_Default][Animations_Default]]
+![Pack1][Pack1]
+![Pack2][Pack2]
+![Pack3][Pack3]
+![Animations_Mixamo][Animations_Mixamo]
+![Animations_Default][Animations_Default]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
